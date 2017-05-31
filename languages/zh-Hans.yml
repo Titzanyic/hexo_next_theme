@@ -1,5 +1,5 @@
 title:
-  archive: 归档
+  archive: 目录
   category: 分类
   schedule: 日程
   tag: 标签
@@ -8,7 +8,7 @@ author: 博主
 
 menu:
   home: 首页
-  archives: 归档
+  archives: 目录
   categories: 分类
   schedule: 日程
   tags: 标签
