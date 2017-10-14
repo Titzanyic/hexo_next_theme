@@ -260,8 +260,8 @@ mathjax:
 #duoshuo_share: true
 
 #Share sdk 分享
-sharesdk: true
-shareSDKappkey: 12cb0d9e8e349
+#sharesdk: true
+#shareSDKappkey: 12cb0d9e8e349
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -269,7 +269,7 @@ shareSDKappkey: 12cb0d9e8e349
 
 #google 统计
 # Google Analytics
-google_analytics: UA-71971726-1
+#google_analytics: UA-71971726-1
 
 # CNZZ count
 #cnzz_siteid:
