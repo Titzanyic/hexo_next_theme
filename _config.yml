@@ -294,6 +294,12 @@ facebook_sdk:
   like_button:  #true
   webmaster:    #true
 
+# SEO
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
