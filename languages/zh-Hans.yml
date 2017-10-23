@@ -51,9 +51,9 @@ counter:
     other: "目前共计 %d 个分类"
 
   archive_posts:
-    zero: 暂无日志。
+    zero: 记录生活的轨迹。
     one: 目前共计 1 篇日志。
-    other: "目前共计 %d 篇日志。"
+    other: 记录生活的轨迹
 
 state:
   posts: 日志
@@ -62,12 +62,12 @@ state:
   categories: 分类
 
 cheers:
-  um: 嗯..
-  ok: OK
-  nice: 好
-  good: 很好
-  great: 非常好
-  excellent: 太棒了
+  um: um
+  ok: ok
+  nice: nice
+  good: good
+  great:  great
+  excellent: excellent
 
 keep_on: 继续努力。
 
