@@ -31,7 +31,10 @@ menu:
   #about: /about
   archives: /archives
   #tags: /tags
+  photo: /photo
+  nas: /nas
   about: /about
+  rss: /atom.xml
   #commonweal: /404.html
 
 
@@ -46,9 +49,12 @@ menu_icons:
   home: home
   about: user
   categories: th
+  photo: photo
+  nas: cloud
   #tags: tags
-  archives: archive
+  archives: list
   commonweal: heartbeat
+  rss: rss
 
 
 

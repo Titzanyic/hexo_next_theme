@@ -14,7 +14,10 @@ menu:
   tags: 标签
   about: 关于
   search: 搜索
+  nas: NAS
+  photo: 相册
   commonweal: 公益404
+  rss: RSS
 
 
 sidebar:
