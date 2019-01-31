@@ -54,9 +54,9 @@ counter:
     other: "目前共计 %d 个分类"
 
   archive_posts:
-    zero: 记录生活的轨迹。
+    zero: 个人的视角看世界
     one: 目前共计 1 篇日志。
-    other: 记录生活的轨迹
+    other: 个人的视角看世界
 
 state:
   posts: 日志
